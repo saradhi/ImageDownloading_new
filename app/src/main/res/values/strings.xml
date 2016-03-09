@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ImageDownloading</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="URL">
+        <item>Image1</item>
+        <item>Image2</item>
+        <item>Image3</item>
+        <item>Image4</item>
+        <item>Image5</item>
+        <item>Image6</item>
+
+    </string-array>
+
+<string-array name="imageUrls">
+
+    <item>http://vkontakte.ru/images/gifts/256/44.jpg</item>
+    <item>http://vkontakte.ru/images/gifts/256/78.jpg</item>
+    <item>http://images.glaciermedia.ca/polopoly_fs/1.68476.1360200929!/fileImage/httpImage/image.jpg_gen/derivatives/landscape_563/elephant-jpg.jpg</item>
+    <item>http://vkontakte.ru/images/gifts/256/44.jpg</item>
+    <item>http://vkontakte.ru/images/gifts/256/78.jpg</item>
+    <item>http://images.glaciermedia.ca/polopoly_fs/1.68476.1360200929!/fileImage/httpImage/image.jpg_gen/derivatives/landscape_563/elephant-jpg.jpg</item>
+
+</string-array>
+
+
+</resources>
